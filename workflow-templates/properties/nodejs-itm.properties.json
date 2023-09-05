@@ -1,0 +1,6 @@
+{
+    "name": "it@m Workflow for Node.js",
+    "description": "Build, check code style and test a Node.js project with npm.",
+    "iconName": "nodejs",
+    "categories": ["Continuous integration", "JavaScript", "npm", "Vue"]
+}
